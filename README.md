@@ -35,7 +35,9 @@ Open to collaborating on **Frontend, Full-Stack, and AI/ML projects**.
 📫 Connect With Me
 💼 LinkedIn: [Risha Shanathi](https://www.linkedin.com/in/rishaarul/)
 🐙 GitHub: @rishaurk23cs7089
-⚡ Fun Fact
+
+
+### ⚡ Fun Fact
 
 I enjoy turning ideas into real, working projects and continuously learning new technologies! 🚀
 
