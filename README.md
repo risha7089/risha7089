@@ -1,60 +1,46 @@
 # Hi there, I'm Risha 👋
 
-🎓 **AI & Machine Learning Student**
-💻 **Aspiring Full-Stack / Frontend Developer**
+🎓 **AI & Machine Learning Student** | 💻 **Aspiring Full-Stack Developer**
 
-Welcome to my GitHub profile! I'm passionate about building **web applications, AI-powered solutions, and user-friendly interfaces**.
+Passionate about building **web applications, AI-powered solutions, and intuitive user experiences**.
 
 ### 🔭 Currently Working On
 
-* 🌐 Web Development projects
-* ⚛️ React-based applications
-* 🤖 AI & Machine Learning projects
+* 🌐 Web Development & React projects
+* 🤖 AI & Machine Learning applications
 
 ### 🌱 Currently Learning
 
-* React.js & TypeScript
-* Full-Stack Web Development
-* Backend Development
-* Data Structures & Algorithms
+* ⚛️ React.js & TypeScript
+* 🌐 Full-Stack Development
+* 🧠 Data Structures & Algorithms
 
 ### 💻 Tech Stack
 
-* **Languages:** Python, Java, JavaScript
-* **Frontend:** HTML, CSS, JavaScript, React, TypeScript
-* **Backend:** Node.js, Express
-* **Database:** MySQL, MongoDB, Supabase
-* **AI/ML:** Python, Pandas, NumPy, Scikit-learn, TensorFlow
-* **Tools:** Git, GitHub, VS Code, Google Colab
+**Languages:** Python • Java • JavaScript • TypeScript
+**Frontend:** HTML • CSS • React
+**Backend:** Node.js • Express
+**Database:** MySQL • MongoDB • Supabase
+**AI/ML:** Pandas • NumPy • Scikit-learn • TensorFlow
+**Tools:** Git • GitHub • VS Code • Google Colab
 
-### 👯 Looking to Collaborate On
+### 🤝 Let's Collaborate
 
-* 🚀 Frontend projects
-* 🌐 Full-stack applications
-* 🤖 AI/ML projects
-* 💡 Innovative student projects
-
-### 🤔 Looking for Help With
-
-* Advanced React & TypeScript
-* Backend development
-* Building scalable full-stack applications
+Open to collaborating on **Frontend, Full-Stack, and AI/ML projects**.
 
 ### 💬 Ask Me About
 
-**Frontend Development | React | Python | Java | AI/ML | Web Development**
+**React • Python • Java • Web Development • AI/ML**
 
-### 📫 Connect With Me
+📫 Connect With Me
+💼 LinkedIn: [Risha Shanathi](https://www.linkedin.com/in/rishaarul/)
+🐙 GitHub: @rishaurk23cs7089
+⚡ Fun Fact
 
-* 💼 LinkedIn: **Risha Shanathi**
-* 🐙 GitHub: **@rishaurk23cs7089**
+I enjoy turning ideas into real, working projects and continuously learning new technologies! 🚀
 
-### ⚡ Fun Fact
-
-I enjoy turning ideas into **real, working projects** and continuously learning new technologies! 🚀
+⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
 
 ---
 
-⭐ **Thanks for visiting my profile! Feel free to explore my repositories and connect with me.**
-
-
+⭐ *Building. Learning. Growing.*
